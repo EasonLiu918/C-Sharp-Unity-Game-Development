@@ -1,4 +1,6 @@
 # C-Sharp-Unity-Game-Development
+A Unity/C# 2D game project focused on interactive gameplay systems, event-driven design, and object-oriented programming.
+
 ## Project Overview
 This project was developed in C# with Unity and includes core gameplay systems such as player movement, enemy behavior, projectile interaction, HUD updates, menu navigation, audio handling, and configuration-based difficulty settings.
 
@@ -11,7 +13,7 @@ This project was developed in C# with Unity and includes core gameplay systems s
 - Audio manager for centralized sound effect playback
 - Configuration data system for gameplay parameter management
 - High score persistence using PlayerPrefs
-- 
+
 ## Project File
 This repository currently includes the project as a ZIP file:
 
