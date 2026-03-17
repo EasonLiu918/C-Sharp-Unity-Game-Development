@@ -22,13 +22,7 @@ This repository currently includes the project as a ZIP file:
 1. Download `Feed the Teddies.zip`
 2. Extract the ZIP file
 3. Open the project folder in Unity Hub or Unity Editor
-4. Open the main scene to run the project
-## Screenshots
-Screenshots of the gameplay and menus are included below.
-![Main Menu](s)
-![Gameplay](s)
-![Pause Menu](s)
-![High Score](s)
+4. Open the main scene and run the project
 
 ## Tech Stack
 - C#
