@@ -25,6 +25,10 @@ This repository currently includes the project as a ZIP file:
 4. Open the main scene to run the project
 ## Screenshots
 Screenshots of the gameplay and menus are included below.
+![Main Menu](s)
+![Gameplay](s)
+![Pause Menu](s)
+![High Score](s)
 
 ## Tech Stack
 - C#
